@@ -1,0 +1,24 @@
+{
+  "features": {
+    "ghcr.io/devcontainers/features/python:1": {
+      "version": "1.8.0",
+      "resolved": "ghcr.io/devcontainers/features/python@sha256:fbcad6955caeecc5ad3f7886baf652e25cba5225a6c4c2287c536de2e5607511",
+      "integrity": "sha256:fbcad6955caeecc5ad3f7886baf652e25cba5225a6c4c2287c536de2e5607511"
+    },
+    "ghcr.io/postfinance/devcontainer-features/docker-out:1": {
+      "version": "1.1.0",
+      "resolved": "ghcr.io/postfinance/devcontainer-features/docker-out@sha256:3381ec689dc586fc3ba64df5bd5949f43669e2eef40b1f47fcf5eb638ebed1d3",
+      "integrity": "sha256:3381ec689dc586fc3ba64df5bd5949f43669e2eef40b1f47fcf5eb638ebed1d3"
+    },
+    "ghcr.io/siri404/devcontainer-ai-features/claude-code:1": {
+      "version": "1.0.1",
+      "resolved": "ghcr.io/siri404/devcontainer-ai-features/claude-code@sha256:e01d8c69a1a863388811b56e3afe4342a3a54d5ed79a4dc088794215b75a89b2",
+      "integrity": "sha256:e01d8c69a1a863388811b56e3afe4342a3a54d5ed79a4dc088794215b75a89b2"
+    },
+    "ghcr.io/stu-bell/devcontainer-features/node:0": {
+      "version": "0.5.2",
+      "resolved": "ghcr.io/stu-bell/devcontainer-features/node@sha256:044479bdbf55bf9191f6bea70306818c7669259f6962add77af2ff7d93658541",
+      "integrity": "sha256:044479bdbf55bf9191f6bea70306818c7669259f6962add77af2ff7d93658541"
+    }
+  }
+}
